@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+.stair {
+  width: 410px;
+  height: 410px;
+  border: 5px solid palevioletred;
+  margin-bottom: 50px;
+}
+.nobo1,
+.nobo2 {
+  width: 100px;
+  height: 100px;
+  background-color: greenyellow;
+}
+.wbo1,
+.wbo2 {
+  width: 100px;
+  height: 100px;
+  border: 5px solid gray;
+  background-color: greenyellow;
+}
+.nobo1 {
+  margin-left: 300px;
+}
+.wbo1 {
+  margin-left: 200px;
+}
+.nobo2 {
+  margin-left: 100px;
+}
+.wbo2 {
+  margin-bottom: 10px;
+}
+
+.stair1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(243, 108, 55);
+}
+.step1,
+.step2,
+.step3,
+.step4 {
+  width: 100px;
+  height: 100px;
+  border: 5px solid rgb(240, 109, 49);
+  background-color: rgb(250, 226, 91);
+  display: block;
+}
+
+.stair2 {
+  padding-left: 100px;
+  background-color: rgb(238, 102, 68);
+  width: 200px;
+  height: 100px;
+}
+.stair3 {
+  padding-left: 200px;
+  background-color: rgb(238, 102, 68);
+  width: 300px;
+  height: 100px;
+
+}
+.stair4 {
+  padding-left: 300px;
+  background-color: rgb(238, 102, 68);
+  width: 400px;
+  height: 100px;
+
+}
